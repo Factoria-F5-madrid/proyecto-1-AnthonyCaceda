@@ -53,7 +53,7 @@ while True:  # bucle inifito y verdadero, se rompe con break
             stopped_time += duration
         else:
             moving_time += duration
-
+        # Calcula el precio total
         total_fee = stopped_time * 0.02 + moving_time * 0.05
         print("**************************")
         print("total: ", round(total_fee, 3), "€")
