@@ -5,13 +5,13 @@ Este proyecto es una simulación de un **taxímetro digital**, desarrollado en P
 
 ## 🚀 Características
 
-* Al iniciar, el programa debe dar la bienvenida y explicar su funcionamiento.
-* Implementar las siguientes funcionalidades básicas:
-    - Iniciar un trayecto.
-    - Calcular tarifa mientras el taxi está parado (2 céntimos por segundo).
-    - Calcular tarifa mientras el taxi está en movimiento (5 céntimos por segundo).
-    - Finalizar un trayecto y mostrar el total en euros.
-    - Permitir iniciar un nuevo trayecto sin cerrar el programa.
+* Al iniciar, da la bienvenida y breve descripcion del funcionamiento.
+* Utiliza las siguientes funcionalidades básicas:
+    - Inicia un trayecto.
+    - Calcula la tarifa mientras el taxi está parado a (2 céntimos por segundo).
+    - Calcula la tarifa mientras el taxi está en movimiento a (5 céntimos por segundo).
+    - Finaliza un trayecto y muestra el total en euros.
+    - Permite iniciar un nuevo trayecto sin cerrar el programa.
 
 ---
 
