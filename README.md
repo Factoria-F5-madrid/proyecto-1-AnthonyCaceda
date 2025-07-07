@@ -64,7 +64,7 @@ total:  0.273 €
 Exiting the program. Goodbye!
 
 ##🔮 Futuras Implementaciones
-Mejora	Descripción
+
 💾 Guardar historial	Registro en archivo .csv, .json o base de datos.
 🖼️ Interfaz gráfica (GUI)	Usar Tkinter, PyQt o interfaz web para experiencia visual.
 📊 Exportar recibos	Generar informes PDF o recibos con resumen del viaje.
