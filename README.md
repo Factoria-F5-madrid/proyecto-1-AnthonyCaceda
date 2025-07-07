@@ -63,6 +63,8 @@ total:  0.273 €
 :exit
 Exiting the program. Goodbye!
 
+---
+ 
 ##🔮 Futuras Implementaciones
 
 💾 Guardar historial	Registro en archivo .csv, .json o base de datos.
