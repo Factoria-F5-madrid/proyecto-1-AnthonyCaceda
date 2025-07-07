@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/freepik_assistant_1751889862952.png"
+ alt="Diagrama del taxímetro" width="70%" />
+</p>
+
 # 🚘 Automad
 
 ¡Bienvenido a **Automad**!  
