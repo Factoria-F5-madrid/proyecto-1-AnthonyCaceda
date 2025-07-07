@@ -62,19 +62,41 @@ total:  0.273 €
 
 :exit
 Exiting the program. Goodbye!
-
+```
 ---
  
-##🔮 Futuras Implementaciones
-
-💾 Guardar historial	Registro en archivo .csv, .json o base de datos.
-🖼️ Interfaz gráfica (GUI)	Usar Tkinter, PyQt o interfaz web para experiencia visual.
-📊 Exportar recibos	Generar informes PDF o recibos con resumen del viaje.
-🔐 Multiusuario	Añadir login para usuarios y viajes personalizados.
-🛠️ Parámetros configurables	Cambiar tarifas desde archivo de configuración.
-🌍 Idiomas	Soporte multilingüe (español, inglés, etc.)
-📉 Simulación visual	Mostrar progreso del viaje con barras o animaciones en consola o GUI.
-🧪 Testing	Añadir pruebas unitarias para mayor confiabilidad.
-
-🧑‍💻 Autor
+## 🔮 Futuras Implementaciones
+```plaintext
+💾 Guardar historial
+Registro en archivo .csv, .json o base de datos.
+```
+```plaintext
+🖼️ Interfaz gráfica (GUI)
+Usar Tkinter, PyQt o interfaz web para experiencia visual.
+```
+```plaintext
+📊 Exportar recibos
+Generar informes PDF o recibos con resumen del viaje.
+```
+```plaintext
+🔐 Multiusuario
+Añadir login para usuarios y viajes personalizados.
+```
+```plaintext
+🛠️ Parámetros configurables
+Cambiar tarifas desde archivo de configuración.
+```
+```plaintext
+🌍 Idiomas
+Soporte multilingüe (español, inglés, etc.)
+```
+```plaintext
+📉 Simulación visual
+Mostrar progreso del viaje con barras o animaciones en consola o GUI.
+```
+```plaintext
+🧪 Testing
+Añadir pruebas unitarias para mayor confiabilidad.
+```
+## 🧑‍💻 Autor
 Desarrollado por Anthony Caceda
